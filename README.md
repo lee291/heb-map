@@ -11,9 +11,6 @@ To view the map, simply open the `index.html` file in a web browser. The map wil
 - `index.html`: The main HTML file that includes the map and required scripts.
 - `style.css`: Contains CSS styles for styling the map container and pop-up content.
 - `data.js`: Contains the GeoJSON data for H-E-B store locations.
-- `leaflet.css`: A link to the Leaflet CSS stylesheet.
-- `leaflet.js`: A link to the Leaflet JavaScript library.
-- `images/`: Directory for storing any images used in the project.
 
 ## Usage
 
