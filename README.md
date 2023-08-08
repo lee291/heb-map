@@ -20,7 +20,7 @@ To view the map, simply open the `index.html` file in a web browser. The map wil
 
 ## Resources
 
-- [Leaflet](https://leafletjs.com/index.html)
+- [Leaflet](https://leafletjs.com)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [H-E-B](https://www.heb.com/)
 
